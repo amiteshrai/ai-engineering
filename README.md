@@ -1,6 +1,6 @@
-# Agentic Workflows
+# AI Engineering
 
-Building and evaluating Agentic Workflows using Generative AI and LLM Models
+Learning and implementing fundamental AI engineering concepts and principles
 
 ## Setting Up Development Environment
 
