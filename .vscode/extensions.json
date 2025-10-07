@@ -1,0 +1,32 @@
+{
+    "recommendations": [
+        "dbaeumer.vscode-eslint",
+        "esbenp.prettier-vscode",
+        "ms-python.python",
+        "eamodio.gitlens",
+        "mhutchie.git-graph",
+        "vscode.github",
+        "GitHub.copilot",
+        "GitHub.copilot-chat",
+        "Anthropic.claude-code",
+        "redhat.vscode-yaml",
+        "bungcip.better-toml",
+        "yzhang.markdown-all-in-one",
+        "shd101wyy.markdown-preview-enhanced",
+        "ms-vscode.live-server",
+        "formulahendry.auto-close-tag",
+        "formulahendry.auto-rename-tag",
+        "ms-toolsai.jupyter",
+        "ms-toolsai.jupyter-keymap",
+        "ms-toolsai.jupyter-renderers",
+        "ms-toolsai.vscode-jupyter-cell-tags",
+        "ms-toolsai.vscode-jupyter-slideshow",
+        "aaron-bond.better-comments",
+        "usernamehw.errorlens",
+        "snowflake.snowflake-vsc",
+        "bierner.markdown-mermaid",
+        "oderwat.indent-rainbow",
+        "ms-python.vscode-pylance"
+    ]
+
+}
