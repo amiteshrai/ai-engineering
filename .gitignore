@@ -19,3 +19,6 @@ wheels/
 .mypy_cache/
 .dmypy.json
 dmypy.json
+
+# static resources
+resources/
